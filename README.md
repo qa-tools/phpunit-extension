@@ -1,5 +1,9 @@
 # QA-Tools / PHPUnit Extension
 
+[![Latest Stable Version](https://poser.pugx.org/qa-tools/phpunit-extension/v/stable)](https://packagist.org/packages/qa-tools/phpunit-extension)
+[![Total Downloads](https://poser.pugx.org/qa-tools/phpunit-extension/downloads)](https://packagist.org/packages/qa-tools/phpunit-extension)
+[![License](https://poser.pugx.org/qa-tools/phpunit-extension/license)](https://packagist.org/packages/qa-tools/phpunit-extension)
+
 Extension to use [QA-Tools library](http://www.qa-tools.io) with [PHPUnit](https://phpunit.de/).
 
 ## Asking Questions
