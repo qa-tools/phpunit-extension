@@ -14,6 +14,7 @@ Feel free to ask any questions and share your experiences in the [Chat Room](htt
 
 1. when creating unit test class sub-class the base test case class (see [Installation](#installation))
 2. use `$this->pageFactory` to get page factory instance associated with current Mink session
+3. see more usage examples at [https://github.com/qa-tools/phpunit-example](https://github.com/qa-tools/phpunit-example)
 
 ## Installation
 
