@@ -26,6 +26,10 @@ Feel free to ask any questions and share your experiences in the [Chat Room](htt
 
 * [Composer](https://getcomposer.org/download/)
 
+## Contributing
+
+See [CONTRIBUTING](CONTRIBUTING.md) file.
+
 ## License
 
 QA-Tools / PHPUnit Extension is released under the BSD-3-Clause License. See the bundled [LICENSE](LICENSE) file for details.
