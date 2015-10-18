@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "fd6822e74086d29a9608540c6d84e7d4",
-    "content-hash": "c77b28bea1d8d3be0e877c1d72686843",
+    "hash": "0058f7ec0467629e482855d8c1a8cd67",
+    "content-hash": "406919df3c798b1b752790fd4957a9e8",
     "packages": [
         {
             "name": "aik099/phpunit-mink",
@@ -1476,10 +1476,53 @@
             "time": "2015-09-14 14:14:09"
         }
     ],
-    "packages-dev": [],
+    "packages-dev": [
+        {
+            "name": "aik099/coding-standard",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/aik099/CodingStandard.git",
+                "reference": "51d923fd462bcbc5438bf716e11d77171d411030"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/aik099/CodingStandard/zipball/51d923fd462bcbc5438bf716e11d77171d411030",
+                "reference": "51d923fd462bcbc5438bf716e11d77171d411030",
+                "shasum": ""
+            },
+            "require-dev": {
+                "squizlabs/php_codesniffer": "~2.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0.x-dev"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Alexander Obuhovich",
+                    "email": "aik.bold@gmail.com"
+                }
+            ],
+            "description": "The PHP_CodeSniffer coding standard I'm using on all of my projects.",
+            "keywords": [
+                "PHP_CodeSniffer",
+                "codesniffer"
+            ],
+            "time": "2015-10-06 07:28:23"
+        }
+    ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "aik099/coding-standard": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

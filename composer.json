@@ -16,5 +16,8 @@
 		"psr-4": {
 			"QATools\\PHPUnitExtension\\": "src/QATools/PHPUnitExtension/"
 		}
-	}
+	},
+    "require-dev": {
+        "aik099/coding-standard": "dev-master"
+    }
 }

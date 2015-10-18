@@ -11,6 +11,11 @@ use QATools\QATools\PageObject\IPageFactory;
 abstract class AbstractQAToolsTestCase extends BrowserTestCase
 {
 
+	/**
+	 * Browsers.
+	 *
+	 * @var array
+	 */
 	public static $browsers = array(
 		array(
 			'alias' => 'default',
@@ -79,4 +84,5 @@ abstract class AbstractQAToolsTestCase extends BrowserTestCase
 			),
 		);
 	}
+
 }
