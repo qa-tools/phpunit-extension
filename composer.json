@@ -12,7 +12,7 @@
             "email": "aik.bold@gmail.com"
         }
     ],
-	"autoload-dev": {
+	"autoload": {
 		"psr-4": {
 			"src\\QATools\\PHPUnitExtension\\": "QATools/PHPUnitExtension/"
 		}
